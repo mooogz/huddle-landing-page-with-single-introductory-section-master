@@ -162,6 +162,10 @@ footer {
         width: 12rem;
     }
 
+    .social-container {
+        align-self: flex-end;
+        padding: 10rem 0 0 0
+    }
     footer {
         visibility: visible;
         position: absolute;
